@@ -12,7 +12,7 @@ The project involves the implementation of a model architecture combining GANs (
 
 - **/notebooks/**: Jupyter notebooks detailing the step-by-step process of data preprocessing, model training, and evaluation.
 - **/results/**: Output results from the model, including performance metrics and visualizations.
-- - **/training/**: Model training, performance metrics and visualizations.
+- **/training/**: Model training, performance metrics and visualizations.
 
 
 ## Requirements
