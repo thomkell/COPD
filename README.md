@@ -12,7 +12,7 @@ This project implements a model architecture based on U-Net to enhance CT image 
 
 - **/notebooks/**: Jupyter notebooks detailing the process of model training and evaluation:
   - `3Dpix2pix192x192x192-Div3000-Mask-defEx2-Diceloss2-2.ipynb`: Notebook for training the 3D U-Net model.
-  - `3DMetrics-ImgGenerator-Div3000-Mask-defEx2-Diceloss2.ipynb`: Notebook for evaluating the trained model.
+  - `3DMetrics-ImgGenerator-Div3000-Mask-defEx2-Diceloss2.ipynb`: Notebook for evaluating the model.
 
 ## Requirements
 
